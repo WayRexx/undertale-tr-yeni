@@ -1,0 +1,19 @@
+{
+  "config_version": "2.0.0",
+  "id": "local_61dc440c190b",
+  "name": "UNDERTALE Yeni Nesil Türkçe Yama",
+  "version": "1.0.0",
+  "authors": [
+    "Way;Rexx",
+    "Sr Spinel"
+  ],
+  "game": "undertale",
+  "description": "Undertale'ın son sürümüne uygun, güncel ve modlanabilir bir Türkçe yama.",
+  "homepage": "https://github.com/WayRexx/undertale-tr-yeni",
+  "game_version": "1.08",
+  "tags": [
+    "textedit",
+    "other"
+  ],
+  "files": []
+}
